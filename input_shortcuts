@@ -1,0 +1,28 @@
+ Company                   | Symbol          
+ ------------------------- | --------------- 
+ Tata Consultancy Services | `TCS.NS`        
+ Reliance Industries       | `RELIANCE.NS`   
+ Infosys                   | `INFY.NS`       
+ State Bank of India       | `SBIN.NS`       
+ HDFC Bank                 | `HDFCBANK.NS`   
+ ICICI Bank                | `ICICIBANK.NS`  
+ Wipro                     | `WIPRO.NS`      
+ Bharti Airtel             | `BHARTIARTL.NS` 
+ Larsen & Toubro           | `LT.NS`         
+ Tata Motors               | `TATAMOTORS.NS` 
+
+
+ Index      | Symbol     
+ ---------- | ---------- 
+ NIFTY 50   | `^NSEI`    
+ NIFTY Bank | `^NSEBANK` 
+ BSE Sensex | `^BSESN`   
+
+
+ Company   | Symbol  
+ --------- | ------- 
+ Apple     | `AAPL`  
+ Microsoft | `MSFT`  
+ Tesla     | `TSLA`  
+ Amazon    | `AMZN`  
+ Alphabet  | `GOOGL` 
