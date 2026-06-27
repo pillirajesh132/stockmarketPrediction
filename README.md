@@ -88,4 +88,5 @@ Stock-Price-Predictor/
 
 ## Conclusion
 
-This project demonstrates how machine learning can be used to analyze historical stock market data and make basic price predictions. It provides hands-on experience with data collection, preprocessing, model training, prediction, and visualization.
+This project uses machine learning and real-time Yahoo Finance data to predict the next day's stock opening and closing prices. It demonstrates the basics of data analysis, Linear Regression, and stock market prediction. The project provides a strong foundation for learning more advanced predictive models in the future.
+
